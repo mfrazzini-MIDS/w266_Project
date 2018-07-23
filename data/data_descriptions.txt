@@ -1,0 +1,12 @@
+RR_Pared_All_Active_2018-07-09.csv
+
+Columns/Description:
+  MODELID - Identifies an active model (at the time of extract) on the ebags.com website.  Model may be accessed via the web utilizing the following URL template:
+    https://www.ebags.com/product/ebags/<modelid>
+  TESTIMONIALID - Unique identifier for a customer review.
+  TESTIMONIAL - Text of a customer review.
+  OVERALL - Optional associated overall rating from customer that was captured at the time of the review.
+  ORGANIZATION - Optional associated organization rating from customer that was captured at the time of the review.
+  APPEARANCE - Optional associated appearance rating from customer that was captured at the time of the review.
+  PRICE_VALUE - Optional associated price_value rating from customer that was captured at the time of the review.
+  DURABILITY - Optional associated durability rating from customer that was captured at the time of the review and also re-solicited 90 days after purchase.
